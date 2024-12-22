@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://rain2gg.github.io
+
+# Sitemaps
+Sitemap: https://rain2gg.github.io/sitemap.xml
